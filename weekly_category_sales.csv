@@ -1,0 +1,127 @@
+week,department,total_qty,total_revenue,num_products
+1,alcohol,263,2114,63
+1,babies,720,5294,132
+1,bakery,2107,15376,306
+1,beverages,4690,41419,610
+1,breakfast,1334,10894,199
+1,bulk,88,560,9
+1,canned goods,1890,14390,268
+1,dairy eggs,9931,77539,863
+1,deli,2006,17538,229
+1,dry goods pasta,1728,14190,252
+1,frozen,3915,31275,611
+1,household,1342,10584,274
+1,international,476,4129,101
+1,meat seafood,1438,12368,157
+1,missing,117,935,26
+1,other,53,370,16
+1,pantry,3315,27241,506
+1,personal care,836,6588,208
+1,pets,122,1109,35
+1,produce,16973,137998,600
+1,snacks,5451,42731,833
+2,alcohol,281,2318,57
+2,babies,804,6518,139
+2,bakery,2041,15234,299
+2,beverages,4577,39627,599
+2,breakfast,1269,9637,203
+2,bulk,60,436,10
+2,canned goods,2050,14776,283
+2,dairy eggs,9674,75941,860
+2,deli,1936,16679,235
+2,dry goods pasta,1358,10906,222
+2,frozen,4139,33865,625
+2,household,1199,9180,245
+2,international,522,4349,103
+2,meat seafood,1280,10893,148
+2,missing,195,1346,49
+2,other,65,707,15
+2,pantry,3546,30944,581
+2,personal care,822,6378,211
+2,pets,153,1127,43
+2,produce,16809,138172,584
+2,snacks,5066,41257,821
+3,alcohol,284,2426,57
+3,babies,695,5366,138
+3,bakery,2075,15563,298
+3,beverages,4832,42754,614
+3,breakfast,1256,10589,207
+3,bulk,80,523,11
+3,canned goods,1853,14012,270
+3,dairy eggs,10186,79714,898
+3,deli,2038,17117,259
+3,dry goods pasta,1537,13217,242
+3,frozen,4037,32249,613
+3,household,1302,10592,260
+3,international,492,4127,104
+3,meat seafood,1313,11177,153
+3,missing,167,1430,37
+3,other,70,585,17
+3,pantry,3465,28805,579
+3,personal care,884,6992,222
+3,pets,212,1489,48
+3,produce,17128,140239,566
+3,snacks,5176,41312,810
+4,alcohol,273,2342,60
+4,babies,791,6045,152
+4,bakery,2158,16093,300
+4,beverages,4760,40095,579
+4,breakfast,1253,10125,201
+4,bulk,43,208,7
+4,canned goods,1918,13945,251
+4,dairy eggs,9258,70674,848
+4,deli,1829,15774,230
+4,dry goods pasta,1470,11482,228
+4,frozen,3940,31833,587
+4,household,1247,9748,245
+4,international,489,4071,109
+4,meat seafood,1108,9411,133
+4,missing,98,766,24
+4,other,53,386,18
+4,pantry,3331,28935,508
+4,personal care,796,6566,195
+4,pets,195,1538,50
+4,produce,16922,138431,571
+4,snacks,5109,39891,838
+5,alcohol,287,2601,64
+5,babies,656,5504,138
+5,bakery,2281,16194,275
+5,beverages,4803,40841,623
+5,breakfast,1270,10074,209
+5,bulk,66,371,9
+5,canned goods,1972,14514,296
+5,dairy eggs,9740,73611,878
+5,deli,1884,16094,235
+5,dry goods pasta,1589,12779,254
+5,frozen,4050,32592,588
+5,household,1296,10010,251
+5,international,457,3955,99
+5,meat seafood,1408,11640,146
+5,missing,113,964,30
+5,other,81,336,18
+5,pantry,3322,26604,553
+5,personal care,777,6443,197
+5,pets,206,1577,48
+5,produce,17353,143477,585
+5,snacks,5194,40879,850
+6,alcohol,249,1699,46
+6,babies,686,5488,132
+6,bakery,1939,14521,287
+6,beverages,4664,39727,614
+6,breakfast,1154,9563,198
+6,bulk,57,453,8
+6,canned goods,1833,13385,255
+6,dairy eggs,9594,76360,851
+6,deli,1837,15462,229
+6,dry goods pasta,1450,11216,237
+6,frozen,3875,32113,612
+6,household,1236,8888,242
+6,international,534,4793,114
+6,meat seafood,1257,11175,139
+6,missing,63,481,18
+6,other,93,914,22
+6,pantry,3525,28864,554
+6,personal care,780,6414,193
+6,pets,190,1608,50
+6,produce,17664,145207,607
+6,snacks,5161,40763,817

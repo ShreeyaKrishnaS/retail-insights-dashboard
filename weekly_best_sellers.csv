@@ -1,0 +1,61 @@
+week,product_name,department,total_qty,total_revenue
+1,banana,produce,767,10738
+1,bag of organic bananas,produce,733,2199
+1,organic baby spinach,produce,453,453
+1,organic strawberries,produce,435,3480
+1,organic hass avocado,produce,363,5082
+1,limes,produce,268,1876
+1,organic whole milk,dairy eggs,266,1064
+1,organic avocado,produce,235,705
+1,organic raspberries,produce,234,1170
+1,strawberries,produce,207,3105
+2,banana,produce,772,10808
+2,bag of organic bananas,produce,663,1989
+2,organic strawberries,produce,507,4056
+2,organic baby spinach,produce,466,466
+2,organic hass avocado,produce,390,5460
+2,organic avocado,produce,323,969
+2,organic raspberries,produce,279,1395
+2,large lemon,produce,251,1255
+2,strawberries,produce,236,3540
+2,organic yellow onion,produce,223,2007
+3,banana,produce,873,12222
+3,bag of organic bananas,produce,653,1959
+3,organic strawberries,produce,464,3712
+3,organic baby spinach,produce,375,375
+3,organic avocado,produce,340,1020
+3,organic hass avocado,produce,327,4578
+3,large lemon,produce,307,1535
+3,organic raspberries,produce,260,1300
+3,strawberries,produce,258,3870
+3,organic whole milk,dairy eggs,252,1008
+4,banana,produce,910,12740
+4,bag of organic bananas,produce,742,2226
+4,organic strawberries,produce,504,4032
+4,organic baby spinach,produce,468,468
+4,organic hass avocado,produce,337,4718
+4,organic avocado,produce,314,942
+4,limes,produce,281,1967
+4,organic whole milk,dairy eggs,281,1124
+4,organic raspberries,produce,249,1245
+4,large lemon,produce,248,1240
+5,banana,produce,925,12950
+5,bag of organic bananas,produce,642,1926
+5,organic hass avocado,produce,435,6090
+5,organic strawberries,produce,430,3440
+5,organic baby spinach,produce,389,389
+5,organic avocado,produce,375,1125
+5,large lemon,produce,318,1590
+5,organic whole milk,dairy eggs,301,1204
+5,strawberries,produce,296,4440
+5,organic yellow onion,produce,241,2169
+6,banana,produce,924,12936
+6,bag of organic bananas,produce,733,2199
+6,organic strawberries,produce,510,4080
+6,organic hass avocado,produce,440,6160
+6,organic baby spinach,produce,432,432
+6,organic whole milk,dairy eggs,309,1236
+6,organic raspberries,produce,303,1515
+6,organic avocado,produce,290,870
+6,large lemon,produce,288,1440
+6,strawberries,produce,261,3915

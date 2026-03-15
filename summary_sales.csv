@@ -1,0 +1,2 @@
+,Total_transaction,total_revenue,Avg_order_value,num_uproducts,top_dept_sales
+0,97803,2823723,28.871537682893162,16154,"[Index(['produce', 'dairy eggs', 'snacks'], dtype='object', name='department')]"
